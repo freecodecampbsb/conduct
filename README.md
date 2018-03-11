@@ -1,6 +1,6 @@
 # Código de Conduta
 
-> Código de conducta de nossa Comunicade
+> Código de conduta de nossa Comunicade
 
 ...
 
