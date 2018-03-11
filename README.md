@@ -6,4 +6,4 @@
 
 ...
 
-Voltar para **[Guia Rápido](https://github.com/freecodecampbsb/quick-start)**
+Voltar para o **[Guia Rápido](https://github.com/freecodecampbsb/quick-start)**
